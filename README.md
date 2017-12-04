@@ -1,3 +1,8 @@
+# Deprecated
+
+This extension now resides within the official
+[`use-package`](https://github.com/jwiegley/use-package) distribution.
+
 # use-package-ensure-system-package
 
 You’re using [`use-package`](https://github.com/jwiegley/use-package)
